@@ -1,3 +1,3 @@
 def title():
-    str = abcdefg
+    str = "skypro"
     return str.upper
