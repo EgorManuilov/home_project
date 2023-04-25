@@ -1,3 +1,3 @@
-def title():
-    str = "skypro"
-    return str.upper
+def up():
+    s = 'hello world'
+    return s.upper
